@@ -6,7 +6,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-left">
-          <img className="headshot" src="/public/headshot.avif" alt="Profile" />
+          <img className="headshot" src="/headshot.avif" alt="Profile" />
         </div>
         <div className="hero-right">
           <h1 className="hero__title">Daniel Jeyaranjan</h1>
@@ -23,11 +23,8 @@ function App() {
         <div className="about">
           <h2 className="about__title">About</h2>
           <p className="about__text">
-            I’m an ambitious marketing student with a passion for turning ideas
-            into results. I thrive on learning, experimenting, and bringing
-            creative strategies to life. Hardworking and curious, I’m always
-            seeking ways to grow and make an impact. My goal? Combine creativity
-            and strategy to deliver campaigns that truly connect.
+I’m a Bachelor of Commerce student majoring in Marketing at Humber College with four years of experience as a Brand Ambassador and Representative. I’ve worked with leading companies like Nespresso, Sonos, Allstate, and the YMCA at events, expos, and pop-up activations. My expertise lies in customer engagement, relationship building, and translating product knowledge into memorable brand experiences. With a strong academic foundation and hands-on industry exposure, I’m eager to grow into a marketing career focused on strategy and brand development.
+
           </p>
         </div>
 
@@ -40,7 +37,7 @@ function App() {
                 <p className="contact-text">Email</p>
                 <img
                   className="social-logo"
-                  src="/public/email.svg"
+                  src="/email.svg"
                   alt="Email"
                 />
               </a>
@@ -50,7 +47,7 @@ function App() {
                 <p className="contact-text">Phone</p>
                 <img
                   className="social-logo"
-                  src="/public/phone.svg"
+                  src="/phone.svg"
                   alt="Phone"
                 />
               </a>
@@ -60,7 +57,7 @@ function App() {
                 <p className="contact-text">Text</p>
                 <img
                   className="social-logo"
-                  src="/public/speech-bubble.svg"
+                  src="/speech-bubble.svg"
                   alt="Text"
                 />
               </a>
@@ -78,7 +75,7 @@ function App() {
             >
               <img
                 className="social-logo"
-                src="/public/facebook.svg"
+                src="/facebook.svg"
                 alt="Facebook"
               />
             </a>
@@ -88,7 +85,7 @@ function App() {
               rel="noreferrer"
               className="social-icon twitter"
             >
-              <img className="social-logo" src="/public/x.svg" alt="Twitter" />
+              <img className="social-logo" src="/x.svg" alt="Twitter" />
             </a>
             <a
               href="https://www.linkedin.com/in/danieljeyaranjan/"
@@ -98,7 +95,7 @@ function App() {
             >
               <img
                 className="social-logo"
-                src="/public/linkedin.svg"
+                src="/linkedin.svg"
                 alt="LinkedIn"
               />
             </a>
