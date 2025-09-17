@@ -6,7 +6,15 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-left">
-          <img className="headshot" src="/headshot.avif" alt="Profile" />
+             <a
+              href="https://www.linkedin.com/in/danieljeyaranjan/"
+              target="_blank"
+              rel="noreferrer"
+              
+            >
+        <img className="headshot" src="/headshot.avif" alt="Profile" />
+            </a>
+          
         </div>
         <div className="hero-right">
           <h1 className="hero__title">Daniel Jeyaranjan</h1>
